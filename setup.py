@@ -27,7 +27,7 @@ setup(
     install_requires=[
         "rich",
         "numpy",
-        "faiss>=1.7.0",
+        "faiss-cpu>=1.7.0",
         "torch>=1.8.0",
     ],
     classifiers=[
